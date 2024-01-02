@@ -1,0 +1,7 @@
+{
+  "userToken": "UserToken",
+  "TelegramAPI": "Telegram_Api",
+  "TelegramHash": "Telegram_Hash",
+  "channelId": "Discord Channel Id or Telegram channel Id here",
+  "readFormat": "EMBEDS"
+}

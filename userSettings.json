@@ -1,0 +1,22 @@
+{
+  "fundsPerTrade": 10,
+  "mode": "MySettings", 
+  "numberOfTakeProfits": 0,
+  "stopLoss": 0.9,
+  "takeProfit": [0.12, 0.2, 0.3, 0.4], 
+  "trailingStopLoss": 0,
+  "leverage": 10,
+  "closePositionAfterXMinutes": 446400,
+  "maximumNumberOfSignals": 15,
+  "entryType": "RANGE",
+  "deviation": 0.2,
+  "cancelTrade": 36000,
+  "cancelTradeWords": ["Cancel", "Close", "Closed", "Cancelled"],
+  "blackListCoins": [""],
+  "keyWordsSignal": ["TP","SL","ENTRY", "DIRECTION","COIN", "DUP"],
+  "marginMode": "isolated",
+  "moveSL": ["1,Entry"],
+  "openOnlyWhenWordsAreInMessage": [""]
+}
+
+
