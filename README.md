@@ -27,12 +27,12 @@ This software provides a solution for cryptocurrency traders and developers. Tra
 
 If you just want to monitor, you can open the monitoring screen by following the instructions below. If you want to benefit from the automatic process feature, you can first run the application by double-clicking on the "Build & Start.bat" file, then make the necessary API connections within the application and press the start button to watch the process.
 
-## Installation for Windows
-This bot only works on windows operating systems.
+## Installation for Windows & Mac
 ```sh
 git clone https://github.com/Pump-Bot-Official/Pump-Bot-Premium.git
 cd Pump-Bot-Premium
-"Build & Start.bat"
+pip install -r requirements.txt
+python3 main.py
 ```
 
 ![alt text](https://github.com/sniperbotapp/Crypto-Sniper-Bot-App/blob/main/assets/images/1.png?raw=true)
